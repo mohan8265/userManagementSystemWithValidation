@@ -7,9 +7,13 @@
 
 ## Data flow
 1. controller
+  * UserController
 2. model
+  * User
 3. service 
+  * UserService
 4. repository
+  * UserDao
 ---
 
 ## Data Structure used
